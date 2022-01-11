@@ -9,6 +9,7 @@ What are key factors that contribute to salary?
 Can the gender pay gap in the UFC be attributed to these factors? If not, is that indicative of sexism on the part of the UFC?
 
 # Findings
+https://docs.google.com/presentation/d/1kcyEnG0xg7VmHMFmOQDsxMhWtl3pugup5oiuk-2YFQE/edit#slide=id.p
 There is clearly a wage gap between men and women, which is demonstrated by the data. 
 Is the gap due to sexism on the part of the UFC or fans?
 That is more difficult to answer. Other factors of varying relevance seem to favor men, such as weight, popularity among fans, and historical longevity. Though even accounting for these factors, women’s average pay does seem to be at least partially below where it should be.
